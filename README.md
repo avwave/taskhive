@@ -9,7 +9,8 @@ taskhive is an open and distributed crowdsourcing internet marketplace focusing 
 
 # Features
 * Encryption for all communications
-* Obfuscation of user location (powered by the BitMessage network)
+* Identity and location obfuscation through distributed network (similar to Bitcoin)
+* Distributed P2P database
 * Reputation system
 * Escrow market
 * Arbitration market
