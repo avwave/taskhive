@@ -6,3 +6,11 @@ Free Open Source Software (FOSS) continues to pick up the pieces where corporate
 
 # Purpose
 taskhive is an open and distributed crowdsourcing internet marketplace focusing on privacy, security and fairness, with translations for every major language.
+
+# Features
+* Encryption for all communications
+* Obfuscation of user location (powered by the BitMessage network)
+* Reputation system
+* Escrow market
+* Arbitration market
+* Bitcoin support
