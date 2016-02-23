@@ -46,10 +46,10 @@
 |   |           |———Public reputation profile
 |   |
 |   |———[ ] Privately Public (allows all online and offline tasks; all payment options allowed including cash)
-|   |           |
-|   |           |———Custom profile photo
-|   |           |———Public reputation profile
-|   |           |———Link other public accounts for more reputation
+|               |
+|               |———Custom profile photo
+|               |———Public reputation profile
+|               |———Link other public accounts for more reputation
 |
 |
 |
