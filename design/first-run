@@ -1,0 +1,61 @@
+|—Install
+|   |
+|   |———No special priviledges
+|
+|
+|
+|—Connectivity Settings
+|       |
+|       |———[•] Standard Connection (SSL)
+|       |———[ ] Proxy (PROXY/SOCKS/SOCKS5)
+|       |———[ ] Orbot (Tor)
+|       |———[ ] VPN (OpenVPN Connect)
+|
+|
+|
+|—Account Settings
+|   |
+|   |———[•] Generate New Identity
+|   |           |
+|   |           |———Generate new mnemonic key
+|   |                          |
+|   |                          |———Backup key
+|   |                                  |
+|   |                                  |———[•] File
+|   |                                  |———[ ] Copy/paste
+|   |                                  |———[ ] To network (PoW)
+|   |
+|   |———[ ] Restore Existing
+|              |
+|              |———[ ] From mnemonic password
+|              |———[ ] From file
+|              |———[ ] From network
+|
+|
+|
+|—Profile Type
+|   |
+|   |———[•] Anonymous (limits you to online tasks where no identifying information will ever be revealed; bitcoin only)
+|   |           |
+|   |           |———Static profile photo
+|   |           |———Redacted reputation profile
+|   |
+|   |———[ ] Pseudonymous (allows all online tasks, including those which may leak identifying information; all payment options allowed)
+|   |           |
+|   |           |———Profile photo based on public key
+|   |           |———Public reputation profile
+|   |
+|   |———[ ] Privately Public (allows all online and offline tasks; all payment options allowed including cash)
+|               |
+|               |———Custom profile photo
+|               |———Public reputation profile
+|               |———Link other public accounts for more reputation
+|
+|
+|
+|—First Login
+    |
+    |———Unlock encrypted key (password protected)
+           |
+           |———Register new key to network
+           |———Submit profile data
