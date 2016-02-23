@@ -1,0 +1,41 @@
+|—Install
+|   |
+|   |———No special priviledges
+|
+|
+|
+|—Connectivity Settings
+|       |
+|       |———[•] Standard Connection (SSL)
+|       |———[ ] Proxy (PROXY/SOCKS/SOCKS5)
+|       |———[ ] Orbot (Tor)
+|       |———[ ] VPN (OpenVPN Connect)
+|
+|
+|
+|—Account Settings
+|   |
+|   |———[•] Generate New Identity
+|   |           |
+|   |           |———Generate new mnemonic key
+|   |                          |
+|   |                          |———Backup key
+|   |                                  |
+|   |                                  |———[•] File
+|   |                                  |———[ ] Copy/paste
+|   |                                  |———[ ] To network (PoW)
+|   |
+|   |———[ ] Restore Existing
+|              |
+|              |———[ ] From mnemonic password
+|              |———[ ] From file
+|              |———[ ] From network
+|
+|
+|—Login
+|   |
+|   |———
+|
+|
+|
+|
