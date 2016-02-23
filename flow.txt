@@ -50,16 +50,13 @@
 |   |           |———Custom profile photo
 |   |           |———Public reputation profile
 |   |           |———Link other public accounts for more reputation
-
-
-
+|
+|
 |
 |—First Login
 |   |
 |   |———Unlock encrypted key (password)
 |          |
-|          |———Register new key at server
-|          |———Set profile data
-|
-|
-|
+|          |———Register new key to network
+|          |———Submit profile data
+
