@@ -1,12 +1,12 @@
 <img src="https://github.com/skifree-snowmonster/taskhive/blob/master/assets/logo.png?raw=true">
 
 # Purpose
-taskhive is an open and distributed crowdsourcing internet marketplace focusing on privacy, security and fairness, with translations for every major language.
+taskhive is the only freelancing internet marketplace focused on safety without compromising privacy and security.
 
 # Features
 * Encryption for all communications
 * Identity and location obfuscation through distributed network (similar to Bitcoin)
-* Distributed P2P database
+* Decentralized P2P records
 * Reputation system
 * Escrow market
 * Arbitration market
